@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9AD7FF,50:B8A9FF,100:F4A7B9&height=200&section=header&text=Hey,%20I'm%20Koala&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Roblox%20Game%20%26%20Web%20Developer%20%C2%B7%20Founder%20of%20Severance&descSize=16&descAlignY=58" width="100%" alt="Hey, I'm Koala — Roblox Game & Web Developer, Founder of Severance" />
+<img src="./assets/header.svg" width="100%" alt="Hey, I'm Koala — Roblox Game &amp; Web Developer, Founder of Severance" />
 
 <p align="center">
   <a href="https://github.com/mistrkoala">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&duration=2800&pause=1200&color=B8A9FF&center=true&vCenter=true&width=600&height=40&lines=leading+Severance%2C+a+dark-fantasy+MMORPG;building+Souls-like+combat+in+Luau;crafting+UI+for+touch%2C+gamepad+%26+keyboard;shipping+web+tools+for+Roblox+communities" alt="Leading Severance, building Souls-like combat in Luau, crafting UI, shipping web tools" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2800&pause=1200&color=B8A9FF&center=true&vCenter=true&width=760&height=40&lines=leading+Severance+%E2%80%94+a+dark-fantasy+MMORPG;building+Souls-like+combat+in+Luau;crafting+UI+for+touch%2C+gamepad+%26+keyboard;shipping+web+tools+for+Roblox+communities" alt="Leading Severance, building Souls-like combat in Luau, crafting UI, shipping web tools" />
   </a>
 </p>
 
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mistrkoala/koala-portfolio"><img src="https://img.shields.io/badge/Portfolio-9AD7FF?style=for-the-badge&logo=googlechrome&logoColor=1a1b27" alt="Portfolio" /></a>
+  <a href="https://mistrkoala.netlify.app"><img src="https://img.shields.io/badge/Portfolio-9AD7FF?style=for-the-badge&logo=googlechrome&logoColor=1a1b27" alt="Portfolio" /></a>
   <a href="mailto:mistrkoaladevelopment@gmail.com"><img src="https://img.shields.io/badge/Email-B8A9FF?style=for-the-badge&logo=gmail&logoColor=1a1b27" alt="Email" /></a>
   <img src="https://img.shields.io/badge/koalaswrld-F4A7B9?style=for-the-badge&logo=discord&logoColor=1a1b27" alt="Discord: koalaswrld" />
 </p>
@@ -106,4 +106,4 @@ end
   <img src="https://komarev.com/ghpvc/?username=mistrkoala&label=profile%20views&color=B8A9FF&style=flat-square" alt="Profile views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4A7B9,50:B8A9FF,100:9AD7FF&height=110&section=footer" width="100%" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="" />
