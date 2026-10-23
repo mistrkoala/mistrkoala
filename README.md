@@ -1,102 +1,103 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="44" alt="" />
-  Hi, I'm Joseph
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Koala.png" width="44" alt="" />
+  Hey, I'm Koala
 </h1>
 
 <p align="center">
-  <b>Programming the future.</b><br />
-  <sub>Software Engineering @ St Mary's University · London</sub>
+  <b>Games on Roblox. Experiences on the web. Engineered to feel alive.</b><br />
+  <sub>Roblox Game &amp; Web Developer · Founder of Severance</sub>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2600&pause=1400&color=19E3C3&background=0A1020&center=true&vCenter=true&width=640&height=46&lines=%E2%9D%AF+studying+Software+Engineering+%40+St+Mary%E2%80%99s;%E2%9D%AF+building+CarerConnect+%E2%80%94+a+mental+health+app;%E2%9D%AF+crafting+Severance+%E2%80%94+an+open-world+MMORPG;%E2%9D%AF+designing+Runix+%E2%80%94+a+language+for+game+dev" alt="Studying Software Engineering at St Mary's, building CarerConnect, crafting Severance, designing Runix" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2600&pause=1400&color=19E3C3&background=0A1020&center=true&vCenter=true&width=640&height=46&lines=%E2%9D%AF+leading+Severance+%E2%80%94+a+dark-fantasy+MMORPG;%E2%9D%AF+building+Souls-like+combat+in+Luau;%E2%9D%AF+crafting+UI+for+touch%2C+gamepad+%26+keyboard;%E2%9D%AF+shipping+web+tools+for+Roblox+communities" alt="Leading Severance, building Souls-like combat in Luau, crafting UI, shipping web tools for Roblox communities" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joseph-fiore-9b4996332/"><img src="https://skillicons.dev/icons?i=linkedin" height="38" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="mailto:mistrkoaladevelopment@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="38" alt="Email" /></a>
+  <a href="https://github.com/mistrkoala/koala-portfolio"><img src="https://img.shields.io/badge/portfolio-visit-00b3ff?style=for-the-badge&labelColor=0a1020" alt="Portfolio" /></a>&nbsp;
+  <a href="mailto:mistrkoaladevelopment@gmail.com"><img src="https://img.shields.io/badge/email-say%20hi-19e3c3?style=for-the-badge&labelColor=0a1020" alt="Email" /></a>&nbsp;
+  <img src="https://img.shields.io/badge/discord-koalaswrld-9a8cff?style=for-the-badge&labelColor=0a1020" alt="Discord: koalaswrld" />
 </p>
 
 ### `01` whoami
 
-```js
-// whoami.rnx · written in Runix, the programming language I'm building
+```lua
+-- whoami.luau
 
-class Joseph extends Developer {
-    function about() {
-        print("Software Engineering student @ St Mary's University, London")
-    }
-
-    function building() {
-        print("CarerConnect -> a mental health app fostering support and resilience")
-        print("Severance    -> an advanced open-world MMORPG on Roblox")
-        print("Runix        -> the language this file is written in")
-    }
+local Koala = {
+    role    = "Roblox Game & Web Developer",
+    leads   = "Severance, a dark-fantasy MMORPG",
+    loves   = { "combat feel", "UI that just works", "server authority" },
 }
 
-me = Joseph()
-while curious {
-    me.explore(new_technology)
-}
+function Koala:build(idea)
+    return idea:polish():harden():ship()
+end
+
+while task.wait() do
+    Koala:build("something that feels alive")
+end
 ```
 
-### `02` now building
+### `02` featured work
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <b>⚡ <a href="https://github.com/JVFDevelopment/runix-lang">Runix</a></b><br />
-      <img src="https://img.shields.io/badge/open%20source-C-00b3ff?style=flat-square&labelColor=0a1020" alt="Open source, written in C" /><br />
-      <sub>A lightweight, C-inspired programming language for game development, with a game loop, input, physics and audio built in.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>💚 CarerConnect</b><br />
-      <img src="https://img.shields.io/badge/status-in%20development-19e3c3?style=flat-square&labelColor=0a1020" alt="In development" /><br />
-      <sub>A mental health app fostering support and resilience.</sub>
-    </td>
-    <td width="33%" valign="top">
       <b>⚔️ Severance</b><br />
       <img src="https://img.shields.io/badge/status-in%20development-9a8cff?style=flat-square&labelColor=0a1020" alt="In development" /><br />
-      <sub>An advanced open-world MMORPG, built on Roblox.</sub>
+      <sub>A dark-fantasy MMORPG on Roblox with Elden Ring–style combat, built with my dev team.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>🔥 <a href="https://github.com/mistrkoala/ember">Ember</a></b><br />
+      <img src="https://img.shields.io/badge/framework-Luau-00b3ff?style=flat-square&labelColor=0a1020" alt="Luau" /><br />
+      <sub>Souls-like combat framework: stamina, i-frame rolls, poise &amp; stagger, lock-on, swept hitboxes. Fully server-authoritative.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>📈 <a href="https://github.com/mistrkoala/pulse">Pulse</a></b><br />
+      <img src="https://img.shields.io/badge/web-live%20analytics-19e3c3?style=flat-square&labelColor=0a1020" alt="Live analytics" /><br />
+      <sub>Real-time player counts for Roblox games, with hand-built canvas charts and a serverless API proxy.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <b>🎓 <a href="https://github.com/mistrkoala/luau-academy">Luau Academy</a></b><br />
+      <img src="https://img.shields.io/badge/free-course-19e3c3?style=flat-square&labelColor=0a1020" alt="Free course" /><br />
+      <sub>Interactive Luau course from first print to production systems. 35 modules, quizzes and 115 challenges.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>🗡️ <a href="https://github.com/mistrkoala/ember-arena">Ember Arena</a></b><br />
+      <img src="https://img.shields.io/badge/play-in%20browser-00b3ff?style=flat-square&labelColor=0a1020" alt="Play in browser" /><br />
+      <sub>A Souls-like wave arena in the browser: dodge rolls, combos, lock-on, telegraphed attacks and bosses.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>🤖 SEVERANCE Bot</b><br />
+      <img src="https://img.shields.io/badge/discord-bot-9a8cff?style=flat-square&labelColor=0a1020" alt="Discord bot" /><br />
+      <sub>Verification, moderation with two-way ban sync to the game, tickets and punishment logs.</sub>
     </td>
   </tr>
 </table>
 
-### `03` toolbox
+### `03` what I do
+
+- **Combat systems** · Souls-like melee, abilities, stamina and progression. Server-authoritative and exploit-resistant.
+- **Game UI** · Responsive, animated HUDs, menus and shops for touch, gamepad and keyboard.
+- **Web for games** · Dashboards, sites and tools for your game or community.
+- **WebGL** · Interactive 3D scenes tuned to run smoothly on phones.
+
+### `04` toolbox
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,rust,c,cpp,cs,go,js,ts,lua,ruby&theme=light" />
-    <img src="https://skillicons.dev/icons?i=py,rust,c,cpp,cs,go,js,ts,lua,ruby" alt="Languages: Python, Rust, C, C++, C#, Go, JavaScript, TypeScript, Lua, Ruby" />
-  </picture>
-  <br /><sub>languages</sub><br /><br />
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,html,css,sass,vite,postgres,mongodb,mysql,firebase&theme=light" />
-    <img src="https://skillicons.dev/icons?i=react,html,css,sass,vite,postgres,mongodb,mysql,firebase" alt="Web and data: React, HTML, CSS, Sass, Vite, PostgreSQL, MongoDB, MySQL, Firebase" />
-  </picture>
-  <br /><sub>web &amp; data</sub><br /><br />
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=godot,robloxstudio,github,vscode,pycharm,netlify,heroku&theme=light" />
-    <img src="https://skillicons.dev/icons?i=godot,robloxstudio,github,vscode,pycharm,netlify,heroku" alt="Game dev and tools: Godot, Roblox Studio, GitHub, VS Code, PyCharm, Netlify, Heroku" />
-  </picture>
-  <br /><sub>game dev &amp; tools</sub>
+  <img src="https://skillicons.dev/icons?i=robloxstudio,lua,js,ts,html,css,react,vite,threejs,nodejs,netlify,github,vscode" alt="Roblox Studio, Luau, JavaScript, TypeScript, HTML, CSS, React, Vite, Three.js, Node.js, Netlify, GitHub, VS Code" />
 </p>
 
-### `04` activity
+### `05` activity
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=JVFDevelopment&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=0a1020&title_color=00b3ff&icon_color=19e3c3&text_color=c9d6ea&ring_color=00b3ff&border_color=1b2a44&border_radius=16" height="165" alt="Joseph's GitHub stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JVFDevelopment&layout=compact&langs_count=8&card_width=340&bg_color=0a1020&title_color=00b3ff&text_color=c9d6ea&border_color=1b2a44&border_radius=16" height="165" alt="Most used languages" />
-  <img src="https://streak-stats.demolab.com/?user=JVFDevelopment&background=0A1020&border=1B2A44&stroke=1B2A44&ring=00B3FF&fire=19E3C3&currStreakNum=FFFFFF&sideNums=E9F2FF&currStreakLabel=00B3FF&sideLabels=A3B3D0&dates=62728F&border_radius=16&timezone=Europe/London" height="165" alt="Contribution streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mistrkoala&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=0a1020&title_color=00b3ff&icon_color=19e3c3&text_color=c9d6ea&ring_color=00b3ff&border_color=1b2a44&border_radius=16" height="165" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=mistrkoala&background=0A1020&border=1B2A44&stroke=1B2A44&ring=00B3FF&fire=19E3C3&currStreakNum=FFFFFF&sideNums=E9F2FF&currStreakLabel=00B3FF&sideLabels=A3B3D0&dates=62728F&border_radius=16&timezone=Europe/London" height="165" alt="Contribution streak" />
 </p>
 
-### `05` say hi
-
-- **Discord:** `koalaswrld`
-- **Email:** [mistrkoaladevelopment@gmail.com](mailto:mistrkoaladevelopment@gmail.com)
-- **LinkedIn:** [Joseph Fiore](https://www.linkedin.com/in/joseph-fiore-9b4996332/)
-
 <p align="center">
-  <sub>Thanks for stopping by · <code>❯ exit 0</code></sub><br /><br />
-  <img src="https://komarev.com/ghpvc/?username=JVFDevelopment&label=profile%20views&color=00b3ff&style=flat-square" alt="Profile views" />
+  <sub>Got a game that needs combat, UI or a web presence? Let's build. · <code>❯ exit 0</code></sub><br /><br />
+  <img src="https://komarev.com/ghpvc/?username=mistrkoala&label=profile%20views&color=9a8cff&style=flat-square" alt="Profile views" />
 </p>
