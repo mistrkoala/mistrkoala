@@ -98,12 +98,7 @@ end
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mistrkoala&bg_color=00000000&color=c9d1d9&line=B8A9FF&point=F4A7B9&area=true&area_color=9AD7FF&hide_border=true&custom_title=Contribution%20graph" width="100%" alt="Contribution graph" />
-</p>
-
-<p align="center">
-  <b>Got a game that needs combat, UI or a web presence? Let's build. 🐨</b><br /><br />
-  <img src="https://komarev.com/ghpvc/?username=mistrkoala&label=profile%20views&color=B8A9FF&style=flat-square" alt="Profile views" />
+  <b>Got a game that needs combat, UI or a web presence? Let's build. 🐨</b>
 </p>
 
 <img src="./assets/footer.svg" width="100%" alt="" />
